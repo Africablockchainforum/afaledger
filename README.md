@@ -1,7 +1,7 @@
-# afaledger
-What is Afaledger
+# alphaledger
+What is Alphaledger
 
-Afaledger – is a decentralised peer to peer digital payment system, transactions are verified by network nodes and recorded in a public distributed ledger. Is an open source project for Africa developers, vendors, enterprise end-users and enthusiasts of business blockchain platform. Support the growth and innovation of Afaledger project.
+Alphaledger – is a decentralised peer to peer digital payment system, transactions are verified by network nodes and recorded in a public distributed ledger. Is an open source project for Africa developers, vendors, enterprise end-users and enthusiasts of business blockchain platform. Support the growth and innovation of Afaledger project.
 
 Distributed Ledger Technology (DLT)
 
